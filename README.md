@@ -63,7 +63,3 @@ A: Simply detach the broom attachment and remove any dirt or debris by hand or u
 
 **Q: Can the Broomba be used to clean multiple rooms?**
 A: Yes, the Broomba can be set to clean multiple rooms based on your preferences using the app.
-
-## License
-
-The Broomba is patented and protected under [License Name]. Unauthorized copying or reproduction of the design or functionality is prohibited.
